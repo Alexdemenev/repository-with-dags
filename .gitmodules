@@ -1,0 +1,3 @@
+[submodule "dags/submodule-with-dag"]
+	path = dags/submodule-with-dag
+	url = https://github.com/Alexdemenev/submodule-with-dag
